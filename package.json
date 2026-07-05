@@ -1,0 +1,13 @@
+{
+  "name": "graphite-stack-demo",
+  "version": "0.1.0",
+  "description": "Tiny TODO CLI demonstrating Graphite stacked PRs",
+  "type": "module",
+  "bin": {
+    "todo": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}
